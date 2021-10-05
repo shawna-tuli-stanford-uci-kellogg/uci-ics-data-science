@@ -1,4 +1,4 @@
-# uci-ics-data-science
+# UCI ICS Data Science
 
 I hold a B.S. in Data Science from the Donald Bren School of Information and Computer Sciences at the University of California, Irvine.
 
