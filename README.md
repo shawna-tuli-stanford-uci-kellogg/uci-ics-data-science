@@ -1,6 +1,6 @@
 # University of California, Irvine ICS Data Science 🖥️📊
 
-I hold a Bachelor of Science in Data Science from the Donald Bren School of Information and Computer Sciences at the University of California, Irvine.
+I hold a Bachelor of Science in Data Science from Donald Bren School of Information and Computer Sciences at the University of California, Irvine.
 
 ∙ https://commencement.uci.edu/files/2020%20Program%20V11-web.pdf
 
