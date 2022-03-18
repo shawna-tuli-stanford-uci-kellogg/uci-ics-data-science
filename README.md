@@ -4,6 +4,8 @@ I hold a Bachelor of Science in Data Science from Donald Bren School of Informat
 
 ∙ [2020 University of California, Irvine Commencement](https://commencement.uci.edu/files/2020%20Program%20V11-web.pdf)
 
+![IMG_0110](https://user-images.githubusercontent.com/19508013/159081551-986497c0-8072-4215-bf6d-501fd5db21a5.jpeg)
+
 ![486989C6-C844-4B58-8F2E-C8AC1698199C](https://user-images.githubusercontent.com/19508013/136116708-0187790a-c475-4d20-b849-215e8b4e2f3a.jpeg)
 
 Upper Division Coursework I completed:
