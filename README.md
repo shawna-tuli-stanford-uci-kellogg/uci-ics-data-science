@@ -1,12 +1,10 @@
-# University of California, Irvine ICS Data Science 🖥️📊
+![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165648488-caca72a4-d700-450d-bdff-9dbf1befb292.png)
 
 I hold a Bachelor of Science in Data Science from Donald Bren School of Information and Computer Sciences at the University of California, Irvine.
 
 ∙ [2020 University of California, Irvine Commencement](https://commencement.uci.edu/files/2020%20Program%20V11-web.pdf)
 
 ![IMG_0110](https://user-images.githubusercontent.com/19508013/159081551-986497c0-8072-4215-bf6d-501fd5db21a5.jpeg)
-
-![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165648488-caca72a4-d700-450d-bdff-9dbf1befb292.png)
 
 Upper Division Coursework I completed:
 
