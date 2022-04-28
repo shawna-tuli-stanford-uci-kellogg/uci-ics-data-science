@@ -1,6 +1,6 @@
 ![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165648488-caca72a4-d700-450d-bdff-9dbf1befb292.png)
 
-I hold a Bachelor of Science in Data Science from Donald Bren School of Information and Computer Sciences at the University of California, Irvine.
+I graduated with a Bachelor of Science in Data Science from the Donald Bren School of Information and Computer Sciences at UC Irvine.
 
 ∙ [2020 University of California, Irvine Commencement](https://commencement.uci.edu/files/2020%20Program%20V11-web.pdf)
 
