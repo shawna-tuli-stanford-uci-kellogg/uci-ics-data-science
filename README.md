@@ -45,3 +45,5 @@ I&C SCI 139W - Critical Writing on Information Technology
 IN4MATX 143 - Information Visualization (A+)
 
 IN4MATX 199 - Research
+
+MGMT 190 - Investments
