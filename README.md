@@ -30,7 +30,7 @@ STATS 120B - Introduction to Probability and Statistics II
 
 STATS 120C - Introduction to Probability and Statistics III
 
-STATS 115 - Bayesian Data Analysis
+STATS 115/205 - Bayesian Data Analysis
 
 STATS 110 - Statistical Methods for Data Analysis I 
 
