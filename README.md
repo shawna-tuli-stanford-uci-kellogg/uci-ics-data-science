@@ -1,5 +1,6 @@
 ![uci](https://user-images.githubusercontent.com/19508013/192609756-ae1dff83-2b53-498b-8c56-34a535cdb1f0.png)
 ![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165648488-caca72a4-d700-450d-bdff-9dbf1befb292.png)
+![165828670-e7e49f36-39ad-4b5a-a1d0-0f1b9b409618](https://user-images.githubusercontent.com/19508013/229362680-f15abbba-9fc3-4283-aaab-65aaee9e4308.png)
 
 ∙ [Shawna Tuli 2020 University of California, Irvine Commencement](https://commencement.uci.edu/files/2020%20Program%20V11-web.pdf)
 
